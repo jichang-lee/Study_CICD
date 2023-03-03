@@ -1,13 +1,13 @@
-package org.spring.cicdex2;
+package org.spring.cicdexx;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Cicdex2Application {
+public class CicdexxApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Cicdex2Application.class, args);
+		SpringApplication.run(CicdexxApplication.class, args);
 	}
 
 }
