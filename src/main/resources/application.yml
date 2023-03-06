@@ -8,7 +8,7 @@ spring:
 
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://ec2-mysql-db.cdmssvujvy8y.ap-northeast-2.rds.amazonaws.com:3306/bootex
+    url: jdbc:mysql://ec2-mysql-db2.cdmssvujvy8y.ap-northeast-2.rds.amazonaws.com:3306/bootex
 
     username: jichang23
     password: dlwlckd12
